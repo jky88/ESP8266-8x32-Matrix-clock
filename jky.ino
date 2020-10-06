@@ -8,7 +8,7 @@
 
 #define HOSTNAME "ESP-Clock"
 const char* ssid     = "MobileX";
-const char* password = "jiangkaiyue";
+const char* password = "jky";
 
 //===FORNT==================DigNum:
 const uint8_t dig3x5[] PROGMEM = { 4,
